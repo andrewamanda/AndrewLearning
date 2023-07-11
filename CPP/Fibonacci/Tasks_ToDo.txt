@@ -1,0 +1,12 @@
+Here are some additional tasks you can explore to practice C++ programming using the provided program:
+Sum of Fibonacci Series: Modify the program to calculate and print the sum of the Fibonacci series instead of printing each individual Fibonacci number. Display the sum at the end of the program.
+User Input for Fibonacci Length: Instead of hard-coding the value of n as 100, modify the program to prompt the user to enter the desired number of terms in the Fibonacci series. Read the user input and generate the Fibonacci series accordingly.Copy
+Fibonacci Series in a Range: Extend the program to accept two bounds from the user, say start and end, and generate the Fibonacci series within that range only. For example, if the user enters start = 10 and end = 1000, the program should generate Fibonacci numbers between 10 and 1000.CopyCopyCopyCopyCopyCopyCopyCopy
+Fibonacci Number Check: Implement a function that takes an integer input from the user and checks if it is a Fibonacci number or not. You can display a message indicating whether the input number is a Fibonacci number or not.
+Fibonacci Number Search: Modify the program to accept an input number from the user and search for that number in the Fibonacci series. Display an appropriate message indicating whether the number is found or not. If found, display the position/index of the number in the series.
+Fibonacci Number Generator: Implement a function that generates Fibonacci numbers and returns them as an array or a vector. The function should accept an input parameter n which indicates the number of terms to generate. Test this function by calling it from the main program to generate Fibonacci numbers and display them.Copy
+These tasks will provide you with opportunities to explore different aspects of C++ programming, including user input, functions, conditional statements, and algorithmic problem-solving. Have fun practicing!
+
+Fibonacci Prime Numbers: Extend the program to identify and print the prime numbers within the Fibonacci series. Implement a separate function to check if a given number is prime or not, and use that function to identify prime numbers within the Fibonacci sequence.
+
+Fibonacci Spiral: Implement a graphical version of the Fibonacci series. Use a graphics library or ASCII art to construct a Fibonacci spiral, where each Fibonacci number determines the length of a line segment. Visualize the spiral on the console or create a graphical representation.
